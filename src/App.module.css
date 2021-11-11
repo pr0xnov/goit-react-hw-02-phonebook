@@ -1,0 +1,27 @@
+.header {
+  display: inline-block;
+  padding: 0 10px 10px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.myPhonebook {
+  margin: 50px auto;
+  width: 400px;
+  padding: 10px;
+
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  background-color: rgb(220, 223, 217);
+}
+
+.bigHeader {
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.smallHeader {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #000;
+}
